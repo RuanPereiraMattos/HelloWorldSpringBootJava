@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ruanmattos.hello_world.HelloWorldApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.166 s -- in com.ruanmattos.hello_world.HelloWorldApplicationTests
